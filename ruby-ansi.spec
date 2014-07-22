@@ -2,7 +2,7 @@
 Summary:	ANSI at your fingertips!
 Name:		ruby-%{pkgname}
 Version:	1.3.0
-Release:	1
+Release:	2
 License:	Apache v2.0
 Group:		Development/Languages
 Source0:	https://github.com/rubyworks/ansi/archive/%{version}.tar.gz
